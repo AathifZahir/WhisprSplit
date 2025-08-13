@@ -1,0 +1,12 @@
+openai-whisper
+pyannote.audio
+torch
+torchaudio
+librosa
+soundfile
+numpy
+matplotlib
+jupyter
+ipywidgets
+moviepy
+ffmpeg-python
